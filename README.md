@@ -1,5 +1,7 @@
 ### When you gaze into the my profile, my profile gazes into you 👀
 
+Let's connect in [Linkedin](https://www.linkedin.com/in/ritsuki-toshima/)←Click!✌︎('ω'✌︎ )
+
 
 Always enthusiastic, I’m also creative and love helping people by solving their problems.
 
