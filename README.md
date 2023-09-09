@@ -1,4 +1,6 @@
-### Hi there 👋
+### When you gaze into the my profile, my profile gazes into you 👀
+
+
 Always enthusiastic, I’m also creative and love helping people by solving their problems.
 
 I worked as an English teacher for three years, but I decided to make a career change to become a full-stack developer and joined in a coding bootcamp in Tokyo. Teaching had its rewards, but I realized that I could help more people by using the power of technology.
