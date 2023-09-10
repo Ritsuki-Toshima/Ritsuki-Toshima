@@ -1,15 +1,10 @@
-### When you gaze into the my profile, my profile gazes into you 👀
+![黒とオレンジ 猫 名言 トリビア 事実 Twitterヘッダー](https://github.com/Ritsuki-Toshima/Ritsuki-Toshima/assets/138346709/50d5374c-4258-428b-9971-2fc8005e69e9)
 
-Let's connect in [Linkedin](https://www.linkedin.com/in/ritsuki-toshima/)←Click!✌︎('ω'✌︎ )
+I am a Japanese Ninja and wanna be ironman. 
 
+### Let's connect in [Linkedin](https://www.linkedin.com/in/ritsuki-toshima/)←Click!✌︎('ω'✌︎ )
 
-Always enthusiastic, I’m also creative and love helping people by solving their problems.
-
-I worked as an English teacher for three years, but I decided to make a career change to become a full-stack developer and joined in a coding bootcamp in Tokyo. Teaching had its rewards, but I realized that I could help more people by using the power of technology.
-
-Now, my goal is to become a programmer who can write code that empathetically caters to each user's needs. I'm excited about the possibilities ahead and how technology can enable me to make a difference in people's lives on a larger scale.
-
-
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -18,3 +13,4 @@ Now, my goal is to become a programmer who can write code that empathetically ca
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
