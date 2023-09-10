@@ -9,8 +9,6 @@ I worked as an English teacher for three years, but I decided to make a career c
 
 Now, my goal is to become a programmer who can write code that empathetically caters to each user's needs. I'm excited about the possibilities ahead and how technology can enable me to make a difference in people's lives on a larger scale.
 
-
-
 <!--
 **Ritsuki-Toshima/Ritsuki-Toshima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
