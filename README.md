@@ -9,4 +9,4 @@
 ### languages and skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,ruby,rails,sqlite,figma,bootstrap,vscode,heroku)](https://skillicons.dev)
 
-### Let's connect in [Linkedin](https://www.linkedin.com/in/ritsuki-toshima/)←Click!✌︎('ω'✌︎ )
+### Let's connect in [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ritsuki-toshima/)←Click!✌︎('ω'✌︎ )
