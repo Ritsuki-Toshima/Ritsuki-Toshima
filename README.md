@@ -10,3 +10,13 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,ruby,rails,sqlite,figma,bootstrap,vscode,heroku)](https://skillicons.dev)
 
 ### Let's connect in [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ritsuki-toshima/)←Click!✌︎('ω'✌︎ )
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ristuki-toshima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ristuki-toshima" height="30" width="40" /></a>
+</p>
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritsuki-toshima&show_icons=true&locale=en" alt="ritsuki-toshima" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritsuki-toshima&" alt="ritsuki-toshima" /></p>
