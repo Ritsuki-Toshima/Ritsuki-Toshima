@@ -14,8 +14,7 @@
 <a href="https://linkedin.com/in/ristuki-toshima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ristuki-toshima" height="30" width="40" /></a>
 <a href="https://fb.com/遠島律貴" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="遠島律貴" height="30" width="40" /></a>
 </p>
-[My portfolio website](http://ritsuki-toshima.com/){:target="_blank"}
-←Click!✌️('ω'✌️)
+<a href="http://ritsuki-toshima.com/" target="_blank">My portfolio website</a>←Click!✌︎('ω'✌︎ )
 
 
 ## Github status
