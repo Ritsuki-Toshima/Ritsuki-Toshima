@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything😎
 - ⚡ Fun fact: I am a Japanese Ninja🥷
 - 🏆 2023 Goal: Become able to make fluffy pancakes🥞
-　　　　　　
+
 ### languages and skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,ruby,rails,sqlite,figma,bootstrap,vscode,heroku)](https://skillicons.dev)
 
