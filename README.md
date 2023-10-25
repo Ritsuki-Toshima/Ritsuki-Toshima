@@ -16,7 +16,7 @@
 </p>
 <a href="http://ritsuki-toshima.com/" target="_blank">My portfolio website</a>←Click!✌︎('ω'✌︎ )
 
-
+　　　　　　　　　　　　
 ## Github status
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritsuki-toshima&show_icons=true&locale=en&layout=compact" alt="ritsuki-toshima"　/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritsuki-toshima&show_icons=true&locale=en" alt="ritsuki-toshima"/></p>
