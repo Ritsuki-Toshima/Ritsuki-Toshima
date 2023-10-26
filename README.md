@@ -8,7 +8,7 @@
   
 ### languages and skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,ruby,rails,sqlite,figma,bootstrap,vscode,heroku)](https://skillicons.dev)
-                                  
+                                  　　　　　　　　
 ## Let's connect!
 <p align="left">
 <a href="https://linkedin.com/in/ristuki-toshima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ristuki-toshima" height="30" width="40" /></a>
