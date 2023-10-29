@@ -3,7 +3,7 @@
 ## Hi there! I'm Ritsuki - a.k.a Ritsukin Skywalker👑
 - 🔭 I’m currently working on [Magical Banana🍌](https://github.com/Ritsuki-Toshima/Magical)
 - 🌱 I’m currently learning everything😎
-- ⚡ Fun fact: I am a Japanese Ninja🥷
+- ⚡ Fun fact: I am a Japanese Ninja🥷　　　　　　　　
 - 🏆 2023 Goal: Become able to make fluffy pancakes🥞
   　　
 ### languages and skills
