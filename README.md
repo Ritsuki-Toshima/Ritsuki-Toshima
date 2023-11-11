@@ -1,6 +1,6 @@
 ![黒とオレンジ 猫 名言 トリビア 事実 Twitterヘッダー (1)](https://github.com/Ritsuki-Toshima/Ritsuki-Toshima/assets/138346709/914405bc-6e40-4b04-b15c-f75960bfb46a)
 
-## Hi there! I'm Ritsuki - a.k.a Ritsukin Skywalker👑  
+## Hi there! I'm Ritsuki - a.k.a Ritsukin Skywalker👑                    
 - 🔭 I’m currently working on [Magical Banana🍌](https://github.com/Ritsuki-Toshima/Magical)
 - 🌱 I’m currently learning everything😎
 - ⚡ Fun fact: I am a Japanese Ninja🥷　　　　　　　　
